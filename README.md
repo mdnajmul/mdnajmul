@@ -5,8 +5,8 @@
 
 ## I'm a Developer.
 
-- 🔭 I’m currently working on 🤖 Laravel Student Management System 🤖 Laravel POS Management
-- 🌱 I’m currently learning everything 🤣 Mainly Laravel.
+- 🔭 I’m currently working on 🤖 Javascript , React, Redux 🤖 
+- 🌱 I’m currently learning everything 🤣 Mainly React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Still searching ONE 🤣
