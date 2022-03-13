@@ -1,3 +1,9 @@
+<span><a href="#"><img align="left" width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="130px"/></a></span>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Najmul Ovi </h1>
+<h3 align="center">I'm a passionate Front End Web Developer from Bangladesh. Love to solve problems</h3>
+<p align="justify">A self-motivated and enthusiastic web developer with a deep interest in JavaScript, React.js, Redux, Node.js, Express.js, MongoDB. Handle difficulties and errors in a smart way. I'm a tech lover. Try to keep myself updated with new technologies and learn that. I enjoy every step of the developing process from discussion and collaboration.</p>
+
 ### Hi there, I'm Najmul Ovi 👋
 
 
@@ -26,9 +32,6 @@
 <a href = "https://www.youtube.com/channel/UC6qtaTCqZi62M0Qeg0N7Iag/videos"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://www.instagram.com/ovi104/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/nazmul.ovi.5/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-    <a href="https://dev.to/iftakher_hossen">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
-    </a>
 
 
 <br />
