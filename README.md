@@ -1,7 +1,7 @@
 ### Hi there, I'm Najmul Ovi 👋
 
 
-![Profile views](https://gpvc.arturio.dev/Iasir-Arafat-riaz)  
+![Profile views](https://gpvc.arturio.dev/mdnajmul)  
 
 ## I'm a Developer.
 
