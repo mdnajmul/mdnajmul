@@ -1,7 +1,7 @@
 ### Hi there, I'm Najmul Ovi 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/najmul104?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/intent/follow?screen_name=najmul104)
+[![Linkedin Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/mdnajmulovi/)
 
 ## I'm a Developer.
 
