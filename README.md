@@ -3,21 +3,33 @@
 
 ![Profile views](https://gpvc.arturio.dev/mdnajmul)  
 
-## I'm a Developer.
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on 🤖 Javascript , React, Redux 🤖 
-- 🌱 I’m currently learning everything 🤣 Mainly React
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Still searching ONE 🤣
+- 🔭 I’m currently working on 🤖 **Javascript , React, Redux** 🤖 
 
+- 🌱 I’m currently learning everything 🤣 Mainly **React, PHP**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-### Connect with me:
+- 👨‍💻 All of my projects are available at **[My Portfolio](najmul-ovi-portfolio.netlify.app)**
 
-[<img align="left" alt="Najmul_Ovi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Najmul_Ovi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Najmul_Ovi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+- 📫 How to reach me **najmulovi999@gmail.com**
+
+- ⚡ Fun fact **Still searching ONE 🤣**
+
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mdnajmulovi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UC6qtaTCqZi62M0Qeg0N7Iag/videos"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://www.instagram.com/ovi104/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/nazmul.ovi.5/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+    <a href="https://dev.to/iftakher_hossen">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
+    </a>
+
 
 <br />
 
@@ -53,8 +65,12 @@
   <a href="https://github.com/mdnajmul/github-readme-stats"><img alt="Najmul Ovi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajmul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/><br/>
-  <p align="left"> <a href="https://github.com/mdnajmul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnajmul" alt="Najmul Ovi" /></a> </p>
+  </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajmul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Najmul Ovi" /></p>
+  <br/>
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+  
 
 
 <br/>
