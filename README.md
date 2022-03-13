@@ -1,7 +1,7 @@
 ### Hi there, I'm Najmul Ovi 👋
 
 
-[![Linkedin Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/mdnajmulovi/)
+[![Linkedin Follow][width="22px"](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/mdnajmulovi/)
 
 ## I'm a Developer.
 
