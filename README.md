@@ -55,7 +55,6 @@
 
 
 
-[twitter]: https://twitter.com/najmul104
 [youtube]: https://youtube.com/channel/UC6qtaTCqZi62M0Qeg0N7Iag/videos
 [linkedin]: https://linkedin.com/in/najmul-ovi-060a1a1a1/
 [facebook]: https://www.facebook.com/nazmul.ovi.5
