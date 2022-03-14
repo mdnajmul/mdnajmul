@@ -4,10 +4,9 @@
 <h3 align="center">I'm a passionate Front End Web Developer from Bangladesh. Love to solve problems</h3>
 <p align="justify">A self-motivated and enthusiastic web developer with a deep interest in JavaScript, React.js, Redux, Node.js, Express.js, MongoDB. Handle difficulties and errors in a smart way. I'm a tech lover. Try to keep myself updated with new technologies and learn that. I enjoy every step of the developing process from discussion and collaboration.</p>
 
-### Hi there, I'm Najmul Ovi 👋
 
 
-![Profile views](https://gpvc.arturio.dev/mdnajmul)  
+![Profile views](https://gpvc.arturio.dev/mdnajmul)
 
 ## 🙋‍♂️ About Me
 
