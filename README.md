@@ -1,5 +1,5 @@
-<span><a href="#"><img align="left" width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="130px"/></a></span>
-
+<p><a href="#"><img align="left" width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="130px"/></a></p>
+<br/><br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Najmul Ovi </h1>
 <h3 align="center">I'm a passionate Front End Web Developer from Bangladesh. Love to solve problems</h3>
 <p align="justify">A self-motivated and enthusiastic web developer with a deep interest in JavaScript, React.js, Redux, Node.js, Express.js, MongoDB. Handle difficulties and errors in a smart way. I'm a tech lover. Try to keep myself updated with new technologies and learn that. I enjoy every step of the developing process from discussion and collaboration.</p>
