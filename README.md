@@ -27,10 +27,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mdnajmulovi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC6qtaTCqZi62M0Qeg0N7Iag/videos"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://www.instagram.com/ovi104/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/nazmul.ovi.5/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mdnajmulovi/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UC6qtaTCqZi62M0Qeg0N7Iag/videos" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://www.instagram.com/ovi104/?hl=en" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/nazmul.ovi.5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 
 <br />
