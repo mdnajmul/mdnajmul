@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](najmul-ovi-portfolio.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://najmul-ovi-portfolio.netlify.app/)**
 
 - 📫 How to reach me **najmulovi999@gmail.com**
 
